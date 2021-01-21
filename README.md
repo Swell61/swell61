@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hallaw 👋
+
+I'm Samuel, a Newcastle University Computer Science Student with an interest in embedded systems, IoT, fiddling about with tech (usually servers and networking gear) and making stuff in general!
+
+My Github account is mainly a mirror for my self-hosted Gitlab server, found [here](https://gitlab.bingbong.tech/Swell61) (because when self-hosting servers, stuff sometimes does go wrong!).
+
+Feel free to reach out to me with any questions or queries.
 
 <!--
 **Swell61/swell61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
