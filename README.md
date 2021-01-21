@@ -1,6 +1,6 @@
 ### Hallaw 👋
 
-I'm Samuel, a Newcastle University Computer Science Student with an interest in embedded systems, IoT, fiddling about with tech (usually servers and networking gear) and making stuff in general!
+I'm Samuel, a Newcastle University Computer Science Student with an interest in embedded systems, IoT, fiddling about with tech (usually servers and networking gear) and making stuff in general! If I'm not writing code, I'm probably tweaking my homelab, playing with electronics, or building something.
 
 My Github account is mainly a mirror for my self-hosted Gitlab server, found [here](https://gitlab.bingbong.tech/Swell61) (because when self-hosting servers, stuff sometimes does go wrong!).
 
